@@ -7,10 +7,9 @@ dependencies {
 }
 
 repositories {
-maven
-    {
-    	url "http://central.maven.org/maven2/"
-      }
+ mavenCentral()
+      maven { url "https://mvnrepository.com/artifact" }
+
 }
 
 
