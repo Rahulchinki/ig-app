@@ -8,8 +8,8 @@ dependencies {
 
 repositories {
 maven
-    url{
-    	http://central.maven.org/maven2/
+    {
+    	url "http://central.maven.org/maven2/"
       }
 }
 
